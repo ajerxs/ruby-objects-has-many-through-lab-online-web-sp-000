@@ -26,6 +26,4 @@ class Artist
     songs.map { |song| song.genre }
   end
 
-
-
 end
